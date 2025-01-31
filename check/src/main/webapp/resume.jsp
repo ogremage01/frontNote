@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>입사지원서</title>
 <style type="text/css">
 body {
 	width: 2480px;
@@ -39,7 +39,7 @@ div {
 }
 
 .frameName {
-	background-color: purple;
+	background-color: violet;
 	width: 70px;
 }
 </style>
@@ -106,7 +106,7 @@ div {
 				<td style="background-color: lightgray;">주민번호</td>
 				<td></td>
 				<td style="background-color: lightgray;">생년월일</td>
-				<td style="text-align: right;">년 월 일(음력/양력)</td>
+				<td style="text-align: right; word-spacing: 50px;">년 월 일(음력/양력)</td>
 			</tr>
 			<tr>
 				<td style="background-color: lightgray;">주소</td>

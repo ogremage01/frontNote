@@ -34,7 +34,7 @@ div {
 
 .frameName {
 	background-color: violet;
-	width: 140px;
+	width: 70px;
 }
 
 #container {
@@ -42,7 +42,6 @@ div {
 	margin: auto;
 
 }
-
 
 </style>
 </head>
@@ -99,7 +98,7 @@ div {
 	
 			<table style="width: 2050px; height: 480px; margin-left: 419px;">
 				<tr>
-					<td style="width: 300px; background-color: lightgray;">성&nbsp;&nbsp;&nbsp;명</td>
+					<td style="width: 300px; background-color: lightgray;">성명</td>
 					<td style="width: 600px; border: none;"></td>
 					<td style="border: none; text-align: left;">(한문)</td>
 					<td style="border: none;"></td>
@@ -109,10 +108,10 @@ div {
 					<td style="background-color: lightgray;">주민번호</td>
 					<td></td>
 					<td style="background-color: lightgray;">생년월일</td>
-					<td style="text-align: right;">&nbsp;년&nbsp;&nbsp;&nbsp;월&nbsp;&nbsp;&nbsp;일(음력/양력)</td>
+					<td style="text-align: right; word-spacing: 50px;">년 월 일(음력/양력)</td>
 				</tr>
 				<tr>
-					<td style="background-color: lightgray;">주&nbsp;&nbsp;&nbsp;소</td>
+					<td style="background-color: lightgray;">주소</td>
 				</tr>
 				<tr>
 					<td style="background-color: lightgray;">전화번호</td>
@@ -121,7 +120,7 @@ div {
 					<td></td>
 				</tr>
 				<tr>
-					<td style="background-color: lightgray;">핸 드 폰</td>
+					<td style="background-color: lightgray;">핸드폰</td>
 					<td></td>
 					<td style="background-color: lightgray;">결혼유무</td>
 					<td>미혼/기혼</td>
@@ -263,7 +262,6 @@ div {
 					<td class="frameName" rowspan=6;>가족사항</td>
 					<td>관계</td>
 					<td>성명</td>
-					<td>연령</td>
 					<td>근무처</td>
 					<td>직위</td>
 					<td>동거</td>
@@ -274,20 +272,9 @@ div {
 					<td></td>
 					<td></td>
 					<td></td>
-					<td></td>
 	
 				</tr>
 				<tr style="height: 80px;">
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-					<td></td>
-	
-				</tr>
-				<tr style="height: 80px;">
-					<td></td>
 					<td></td>
 					<td></td>
 					<td></td>
@@ -301,11 +288,17 @@ div {
 					<td></td>
 					<td></td>
 					<td></td>
-					<td></td>
 	
 				</tr>
 				<tr style="height: 80px;">
 					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+	
+				</tr>
+				<tr style="height: 80px;">
 					<td></td>
 					<td></td>
 					<td></td>
@@ -373,23 +366,23 @@ div {
 			<table style="width: 1230px; height: 200px; margin: auto;">
 				<tr class="topHead">
 					<td class="frameName" rowspan=4;>자격사항</td>
-					<td style="width: 300px;">취득일자</td>
-					<td>종 류</td>
-					<td style="width: 150px;">등급</td>
+					<td>취득일자</td>
+					<td style="word-spacing: 80px;">종 류</td>
+					<td>등급</td>
 				</tr>
 				<tr>
-					<td>.&nbsp;&nbsp;&nbsp;.</td>
+					<td style="word-spacing: 80px;">. .</td>
 					<td></td>
 					<td></td>
 	
 				</tr>
 				<tr>
-					<td>.&nbsp;&nbsp;&nbsp;.</td>
+					<td style="word-spacing: 80px;">. .</td>
 					<td></td>
 					<td></td>
 				</tr>
 				<tr>
-					<td>.&nbsp;&nbsp;&nbsp;.</td>
+					<td style="word-spacing: 80px;">. .</td>
 					<td></td>
 					<td></td>
 				</tr>

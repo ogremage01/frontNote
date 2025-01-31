@@ -6,10 +6,6 @@
 <meta charset="UTF-8">
 <title>입사지원서</title>
 <style type="text/css">
-body {
-	width: 2480px;
-	margin: auto;
-}
 
 table, th, td {
 	border: 2px solid black;
@@ -42,9 +38,17 @@ div {
 	background-color: violet;
 	width: 70px;
 }
+
+#container {
+	width: 2480px;
+	margin: auto;
+
+}
+
 </style>
 </head>
 <body>
+<div id="container">
 	<div>
 		<table style="border: 0px;">
 			<tr>
@@ -386,7 +390,7 @@ div {
 			</tr>
 		</table>
 	</div>
-
+</div>
 
 
 

@@ -28,7 +28,7 @@ div {
 	text-align: center;
 }
 
-.tophead {
+.topHead {
 	background-color: fuchsia;
 	width: 70px;
 	height: 40px;
@@ -68,7 +68,7 @@ div {
 				<td width="826px;" style="text-align: right; border: none;">
 					<table class="base"
 						style="width: 800px; height: 200px; float: right; margin: auto;">
-						<tr class="tophead" style="height: 40px">
+						<tr class="topHead" style="height: 40px">
 							<td>구분</td>
 							<td>지원 분야</td>
 							<td>희망연봉</td>
@@ -138,7 +138,7 @@ div {
 
 	<div>
 		<table style="width: 2470px; height: 300px; margin: auto;">
-			<tr class="tophead">
+			<tr class="topHead">
 				<td class="frameName" rowspan=4;>학력</td>
 				<td colspan="2" style="width: 300px;">입학년월</td>
 				<td colspan="2" style="width: 300px;">졸업년월</td>
@@ -183,7 +183,7 @@ div {
 	<div>
 		<table
 			style="width: 2470px; height: 300px; margin: auto; word-spacing: 30px;">
-			<tr class="tophead">
+			<tr class="topHead">
 				<td class="frameName" rowspan=4;>경력</td>
 				<td>근 무 기 간</td>
 				<td>직 장 명</td>
@@ -218,7 +218,7 @@ div {
 	<div>
 		<table
 			style="width: 1235px; height: 200px; margin-right: 5px; float: left;">
-			<tr class="tophead">
+			<tr class="topHead">
 				<td class="frameName" rowspan=3;>신체</td>
 				<td>신장</td>
 				<td>체중</td>
@@ -237,7 +237,7 @@ div {
 			</tr>
 		</table>
 		<table style="width: 1230px; height: 200px; margin: auto;">
-			<tr class="tophead">
+			<tr class="topHead">
 				<td class="frameName" rowspan=3;>병역</td>
 				<td>구분</td>
 				<td>병과</td>
@@ -260,7 +260,7 @@ div {
 	<div>
 		<table
 			style="width: 1400px; height: 200px; margin-right: 5px; float: left;">
-			<tr class="tophead">
+			<tr class="topHead">
 				<td class="frameName" rowspan=6;>가족사항</td>
 				<td>관계</td>
 				<td>성명</td>
@@ -366,7 +366,7 @@ div {
 			</tr>
 		</table>
 		<table style="width: 1230px; height: 200px; margin: auto;">
-			<tr class="tophead">
+			<tr class="topHead">
 				<td class="frameName" rowspan=4;>자격사항</td>
 				<td>취득일자</td>
 				<td style="word-spacing: 80px;">종 류</td>
